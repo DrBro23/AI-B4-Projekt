@@ -28,14 +28,3 @@ requirements installieren:
 ```bash
 pip install -r requirements.txt
 ```
-
-
-## Training des Modells
-
-- [Mit Mnist Datensatz](./mnist.md)
-
-
-## Quellen
-
-- https://www.tensorflow.org/install/pip
-- https://pypi.org/project/tflite-model-maker/
